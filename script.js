@@ -43,6 +43,14 @@
 
 /* Inizio a creare i macroblocchi e sezioni */
 
+/*
+    ? SE voglio usare Bootstrap
+        -implemento il link nell head del progetto
+
+    : ALTRIMENTI 
+        -utilizzo il metodo classico
+*/
+
 /* FINCHE i file html e css sono salvati
         -controllo le modifiche apportare nel browser
 */
