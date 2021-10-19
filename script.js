@@ -52,6 +52,6 @@
 */
 
 /* FINCHE i file html e css sono salvati
-        -controllo le modifiche apportare nel browser
+        -controllo le modifiche apportate, nel browser
 */
     
